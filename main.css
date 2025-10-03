@@ -1,0 +1,17 @@
+body {
+    font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+    font-size: 14pt;
+    background: #014;
+    color: #bef;
+    text-align: center;
+}
+
+button {
+  color: #dff;
+  background: #002;
+  padding: 15px;
+  border-radius: 15px;
+  font-size: 20px;
+  font-weight: bold;
+  width: 220px;
+}
