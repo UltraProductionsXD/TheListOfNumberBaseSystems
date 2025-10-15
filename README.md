@@ -7,3 +7,4 @@ Project #3: The List of Number Base Systems
 <p>0.20 - Silvernary and Quaternary are added.</p>
 <p>0.21 - Binary, Quaternary, and Octal have all been expanded from 256 to 512.</p>
 <p>0.30 - Both Quinary variations have been expanded, along with Psinary.</p>
+<p><strong>0.3141 - Big Update!</strong> Heximal, Septenary, and Nonary have all been added, including Plastikal (Plastic Ratio Base).</p>
